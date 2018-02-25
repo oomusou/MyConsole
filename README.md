@@ -1,3 +1,3 @@
 ## .NET Core Docker Demo
 
-Demo for http://oomusou.io/netcore/console-app-docker/
+Demo for http://oomusou.io/netcore/build-docker/
